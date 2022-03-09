@@ -16,7 +16,7 @@ const Footer = () => {
         <div className='flex items-center mb-2 '>
           <FaMapMarkerAlt size={35} className='text-purple-600' />
           <p className='ml-3 text-purple-100 opacity-70'>
-            Warri, Delta State, Nigeria.
+            Nigeria.
           </p>
         </div>
         <div className='flex items-center mb-2 '>
