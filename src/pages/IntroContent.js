@@ -18,7 +18,7 @@ const IntroContent = () => {
 
             <h2 className='font-normal text-xl'>Frontend Web Developer</h2>
             <p className='font-normal text-base py-3 text-purple-100 opacity-70'>
-              I'm a Frontend Engineer based in Delta State, Nigeria. I love
+              I'm a Frontend Engineer based in Nigeria. I love
               programming & solving problems through code.
             </p>
             <a
