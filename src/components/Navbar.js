@@ -3,6 +3,7 @@ import menuIcon from '../assets/menu-bars.png'
 import closeIcon from '../assets/icons8-close.svg'
 import { useGlobalContext } from '../context'
 import { FaLinkedin, FaGithub, FaTwitter, FaWhatsapp } from 'react-icons/fa'
+import { SiUpwork } from "react-icons/si";
 
 const Navbar = () => {
   const { showMenu, openMenu, closeMenu } = useGlobalContext()
@@ -65,6 +66,9 @@ const Navbar = () => {
             </a>
             <a href='https://wa.link/ub6ld2' target='_blank'>
               <FaWhatsapp size={30} className='mx-2 hover:text-purple-500' />
+            </a>
+            <a href='https://www.upwork.com/freelancers/~010758168b89505f70' target='_blank'>
+              <SiUpwork size={30} className='mx-2 hover:text-purple-500' />
             </a>
           </div>
         </div>
