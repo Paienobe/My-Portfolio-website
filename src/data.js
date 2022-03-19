@@ -22,9 +22,9 @@ export const projectDetails = [
     name: 'CryptoStats',
     description:
       'This is an app for getting the current price of cryptocurrencies and the entire crypto market. Users can search for crypto currencies and view charted data of these currencies.',
-    image: project2,
-    link: 'https://rest-countries-paienobe.netlify.app/',
-    code: 'https://github.com/Paienobe/REST-Countries-API-with-color-theme-switcher',
+    image: project1,
+    link: 'https://cryptostatz.netlify.app/',
+    code: 'https://github.com/Paienobe/CryptoStats',
   },
   {
     name: 'Countries App',
