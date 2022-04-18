@@ -4,7 +4,7 @@ import project2 from './assets/countries-app.png'
 import project3 from './assets/jobs-app.png'
 import project4 from './assets/Comments-app.png'
 import project5 from './assets/space-tourism.png'
-import project6 from './assets/r-p-s.png'
+import project6 from './assets/ewa.png'
 
 // skills
 import htmlLogo from './assets/icons8-html-5 (1).svg'
@@ -16,7 +16,14 @@ import vsCodeLogo from './assets/icons8-visual-studio-code-2019.svg'
 import gitHubLogo from './assets/icons8-github.svg'
 import tailWindLogo from './assets/tailwindcss-icon.svg'
 
-export const projects = [project1, project2, project3, project4, project5, project6]
+export const projects = [
+  project1,
+  project2,
+  project3,
+  project4,
+  project5,
+  project6,
+]
 export const projectDetails = [
   {
     name: 'CryptoStats',
@@ -59,9 +66,9 @@ export const projectDetails = [
     code: 'https://github.com/Paienobe/Space-Tourism-Website',
   },
   {
-    name: 'Rock, Paper, Scissors',
+    name: 'Entertainment Webapp',
     description:
-      'This is a simple rock, paper, scissors game. Users select an action and the computer picks another to decide a winner',
+      'This is an entertainment website/application. Its similar to popular streaming services. Users are shown a collection of movies and tv shows they can watch.',
     image: project6,
     link: 'https://rock-paper-scissors-app-paienobe.netlify.app/',
     code: 'https://github.com/Paienobe/Space-Tourism-Website',
