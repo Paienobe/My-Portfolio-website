@@ -15,6 +15,8 @@ import sassLogo from './assets/icons8-sass-48.png'
 import vsCodeLogo from './assets/icons8-visual-studio-code-2019.svg'
 import gitHubLogo from './assets/icons8-github.svg'
 import tailWindLogo from './assets/tailwindcss-icon.svg'
+import nextJsLogo from './assets/next-js.png'
+import gitLogo from './assets/icons8-git.svg'
 
 export const projects = [
   project1,
@@ -80,8 +82,9 @@ export const skills = [
   { name: 'css', image: cssLogo },
   { name: 'javascript', image: jsLogo },
   { name: 'react', image: reactLogo },
-  { name: 'sass', image: sassLogo },
+  { name: 'next.js', image: nextJsLogo },
   { name: 'vscode', image: vsCodeLogo },
+  { name: 'git', image: gitLogo },
   { name: 'github', image: gitHubLogo },
   { name: 'tailwind', image: tailWindLogo },
 ]
