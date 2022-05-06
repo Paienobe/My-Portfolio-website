@@ -1,7 +1,7 @@
 // projects
 import project1 from './assets/cryptostatz.png'
-import project2 from './assets/countries-app.png'
-import project3 from './assets/jobs-app.png'
+import project2 from './assets/feedback_app.png'
+import project3 from './assets/countries-app.png'
 import project4 from './assets/Comments-app.png'
 import project5 from './assets/space-tourism.png'
 import project6 from './assets/ewa.png'
@@ -36,20 +36,20 @@ export const projectDetails = [
     code: 'https://github.com/Paienobe/CryptoStats',
   },
   {
+    name: 'Product Feedback App',
+    description:
+      'This is an app that where users can give feedback on a product. The users get to see requests that have been accepted by the creators and they can also interact with other users.',
+    image: project2,
+    link: 'http://product-feedback-app-seven.vercel.app/',
+    code: 'https://github.com/Paienobe/Product-feedback-app',
+  },
+ {
     name: 'Countries App',
     description:
       'This is an app that displays information about all countries in the world. You can search for a specific country or filter countries by region.',
-    image: project2,
+    image: project3,
     link: 'https://rest-countries-paienobe.netlify.app/',
     code: 'https://github.com/Paienobe/REST-Countries-API-with-color-theme-switcher',
-  },
-  {
-    name: 'Jobs Filter App',
-    description:
-      'This is an app that displays a certain amount of jobs. The jobs can be filtered by passing in some requirements.',
-    image: project3,
-    link: 'https://static-job-listings-app.netlify.app/',
-    code: 'https://github.com/Paienobe/Static-Job-Listings-App',
   },
   {
     name: 'Comments App',
@@ -72,8 +72,8 @@ export const projectDetails = [
     description:
       'This is an entertainment website/application. Its similar to popular streaming services. Users are shown a collection of movies and tv shows they can watch.',
     image: project6,
-    link: 'https://rock-paper-scissors-app-paienobe.netlify.app/',
-    code: 'https://github.com/Paienobe/Space-Tourism-Website',
+     link: 'https://entertainment-webapp.netlify.app/',
+    code: 'https://github.com/Paienobe/Entertainment-Web-App',
   },
 ]
 
