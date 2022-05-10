@@ -56,7 +56,7 @@ const Navbar = () => {
               <FaGithub size={30} className='mx-2 hover:text-purple-500' />
             </a>
             <a
-              href='linkedin.com/in/progress-aienobe-a93ba3221/'
+              href='https://www.linkedin.com/in/progress-aienobe-a93ba3221/'
               target='_blank'
             >
               <FaLinkedin size={30} className='mx-2 hover:text-purple-500' />
