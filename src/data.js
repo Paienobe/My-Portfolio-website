@@ -1,9 +1,9 @@
 // projects
 import project1 from './assets/cryptostatz.png'
 import project2 from './assets/feedback_app.png'
-import project3 from './assets/countries-app.png'
+import project3 from './assets/invoice-app.png'
 import project4 from './assets/Comments-app.png'
-import project5 from './assets/space-tourism.png'
+import project5 from './assets/countries-app.png'
 import project6 from './assets/ewa.png'
 
 // skills
@@ -44,12 +44,12 @@ export const projectDetails = [
     code: 'https://github.com/Paienobe/Product-feedback-app',
   },
  {
-    name: 'Countries App',
+    name: 'Invoice App',
     description:
-      'This is an app that displays information about all countries in the world. You can search for a specific country or filter countries by region.',
+      'This is an app that lets the user create invoices for business transactions. Users can create, edit or delete invoices. It is a very usefull application for keeping track of sales.',
     image: project3,
-    link: 'https://rest-countries-paienobe.netlify.app/',
-    code: 'https://github.com/Paienobe/REST-Countries-API-with-color-theme-switcher',
+    link: 'https://invoice-app-gamma.vercel.app/',
+    code: 'https://github.com/Paienobe/invoice-app',
   },
   {
     name: 'Comments App',
@@ -60,12 +60,12 @@ export const projectDetails = [
     code: 'https://github.com/Paienobe/Interactive-Comments-App',
   },
   {
-    name: 'Space Tourism Site',
+   name: 'Countries App',
     description:
-      'This is a multi-page website built with React. It displays information about destinations for a space misssion. I also shows info about the crew and technologies used for the mission.',
+      'This is an app that displays information about all countries in the world. You can search for a specific country or filter countries by region.',
     image: project5,
-    link: 'https://space-tourism-website-paienobe.netlify.app/',
-    code: 'https://github.com/Paienobe/Space-Tourism-Website',
+    link: 'https://rest-countries-paienobe.netlify.app/',
+    code: 'https://github.com/Paienobe/REST-Countries-API-with-color-theme-switcher',
   },
   {
     name: 'Entertainment Webapp',
