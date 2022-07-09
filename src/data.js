@@ -56,16 +56,16 @@ export const projectDetails = [
     description:
       'This is an ecommerce website for an audio device company. Users can view a variety of products from the website and then make purchases on devices they like',
     image: project4,
-    link: 'https://interactive-comments-app-paienobe.netlify.app/',
-    code: 'https://github.com/Paienobe/Interactive-Comments-App',
+    link: 'https://audiophile-omega.vercel.app/',
+    code: 'https://github.com/Paienobe/Audiophile',
   },
   {
     name: 'Comments App',
     description:
       'This is an interactive comments section app. Users can add comments, delete comments, reply to comments, edit comments and replies. I also made use of local storage to preserve the comments.',
     image: project5,
-    link: 'https://audiophile-omega.vercel.app/',
-    code: 'https://github.com/Paienobe/Audiophile',
+    link: 'https://interactive-comments-app-paienobe.netlify.app/',
+    code: 'https://github.com/Paienobe/Interactive-Comments-App',
   },
   {
     name: 'Entertainment Webapp',
