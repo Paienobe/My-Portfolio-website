@@ -63,7 +63,7 @@ export const projectDetails = [
     name: 'Comments App',
     description:
       'This is an interactive comments section app. Users can add comments, delete comments, reply to comments, edit comments and replies. I also made use of local storage to preserve the comments.',
-    image: project4,
+    image: project5,
     link: 'https://audiophile-omega.vercel.app/',
     code: 'https://github.com/Paienobe/Audiophile',
   },
