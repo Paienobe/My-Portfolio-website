@@ -2,8 +2,8 @@
 import project1 from './assets/cryptostatz.png'
 import project2 from './assets/feedback_app.png'
 import project3 from './assets/invoice-app.png'
-import project4 from './assets/Comments-app.png'
-import project5 from './assets/countries-app.png'
+import project4 from './assets/audiophile-home.png'
+import project5 from './assets/Comments-app.png'
 import project6 from './assets/ewa.png'
 
 // skills
@@ -52,20 +52,20 @@ export const projectDetails = [
     code: 'https://github.com/Paienobe/invoice-app',
   },
   {
-    name: 'Comments App',
+    name: 'Audiophile eCommerce Website',
     description:
-      'This is an interactive comments section app. Users can add comments, delete comments, reply to comments, edit comments and replies. I also made use of local storage to preserve the comments.',
+      'This is an ecommerce website for an audio device company. Users can view a variety of products from the website and then make purchases on devices they like',
     image: project4,
     link: 'https://interactive-comments-app-paienobe.netlify.app/',
     code: 'https://github.com/Paienobe/Interactive-Comments-App',
   },
   {
-   name: 'Countries App',
+    name: 'Comments App',
     description:
-      'This is an app that displays information about all countries in the world. You can search for a specific country or filter countries by region.',
-    image: project5,
-    link: 'https://rest-countries-paienobe.netlify.app/',
-    code: 'https://github.com/Paienobe/REST-Countries-API-with-color-theme-switcher',
+      'This is an interactive comments section app. Users can add comments, delete comments, reply to comments, edit comments and replies. I also made use of local storage to preserve the comments.',
+    image: project4,
+    link: 'https://audiophile-omega.vercel.app/',
+    code: 'https://github.com/Paienobe/Audiophile',
   },
   {
     name: 'Entertainment Webapp',
