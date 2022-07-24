@@ -64,8 +64,8 @@ export const projectDetails = [
     description:
       'This is an interactive comments section app. Users can add comments, delete comments, reply to comments, edit comments and replies. I also made use of local storage to preserve the comments.',
     image: project5,
-    link: 'https://interactive-comments-app-paienobe.netlify.app/',
-    code: 'https://github.com/Paienobe/Interactive-Comments-App',
+    link: 'http://comments-app-ts.vercel.app/',
+    code: 'https://github.com/Paienobe/comments-app-ts',
   },
   {
     name: 'Entertainment Webapp',
