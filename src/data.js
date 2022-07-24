@@ -17,7 +17,7 @@ import gitHubLogo from './assets/icons8-github.svg'
 import tailWindLogo from './assets/tailwindcss-icon.svg'
 import nextJsLogo from './assets/next-js.png'
 import gitLogo from './assets/icons8-git.svg'
-import typescriptLogo from "./assets/ts_logo_.png"
+import typescriptLogo from "./assets/icons8-typescript-48.png"
 
 export const projects = [
   project1,
